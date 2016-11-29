@@ -1,3 +1,4 @@
+#This script is to remove non-conventional chromosomes.
 #!/usr/bin/perl
 $file=$ARGV[0];
 chomp($file);
