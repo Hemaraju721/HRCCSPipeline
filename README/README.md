@@ -1,0 +1,1 @@
+HRCCSPipeline is a simple, lightweight pipeline for detection of noncoding RNA. Supports RNA-Seq, Microarray datasetsHRCCSPipeline is UNPUBLISHED SOFTWARE. It comes with NO support, guarantees, promises or warranties of any sort. It is a work in progress. 
