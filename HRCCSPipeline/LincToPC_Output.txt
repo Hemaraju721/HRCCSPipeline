@@ -1,0 +1,43 @@
+This worksheet shows only one neighboring DEG for each lincRNA based on the shortest distance in column E					
+					
+Ino80dos					
+Gene on the right: Linc Gene Name: Ino80dos	 linc chr: 1	 DE Gene Name Rb1cc1	 DEG chr: 1	 Distance from linc end :609632	 
+1700020I14Rik					
+Gene on the right: Linc Gene Name: 1700020I14Rik	 linc chr: 2	 DE Gene Name Itga8	 DEG chr: 2	 Distance from linc end :354118	 
+4731419I09Rik					
+Gene on the right: Linc Gene Name: 4731419I09Rik	 linc chr: 3	 DE Gene Name Hey1	 DEG chr: 3	 Distance from linc end :771424	 
+Gm26825					
+Gene on the left: Linc Gene Name: Gm26825	 linc chr: 5	 DE Gene Name Stim2	 DEG chr: 5	 Distance from linc start:487168	 
+RP23-61N4.3					
+Gene on the right: Linc Gene Name: RP23-61N4.3	 linc chr: 6	 DE Gene Name Gng11	 DEG chr: 6	 Distance from linc end :602367	 
+Gm26673					
+Gene on the right: Linc Gene Name: Gm26673	 linc chr: 6	 DE Gene Name Thsd7a	 DEG chr: 6	 Distance from linc end :862550	 
+Gm26827					
+Gene on the right: Linc Gene Name: Gm26827	 linc chr: 7	 DE Gene Name Peg3	 DEG chr: 7	 Distance from linc end :413420	 
+Gm20204					
+Gene on the right: Linc Gene Name: Gm20204	 linc chr: 8	 DE Gene Name Arhgef7	 DEG chr: 8	 Distance from linc end :493494	 
+A530017D24Rik					
+Gene on the right: Linc Gene Name: A530017D24Rik	 linc chr: 11	 DE Gene Name Ccm2	 DEG chr: 11	 Distance from linc end :139918	 
+2410018L13Rik					
+1700086L19Rik					
+Gene on the right: Linc Gene Name: 1700086L19Rik	 linc chr: 12	 DE Gene Name Klhl29	 DEG chr: 12	 Distance from linc end :2852122	 
+Gm28933					
+Gene on the right: Linc Gene Name: Gm28933	 linc chr: 12	 DE Gene Name Rdh14	 DEG chr: 12	 Distance from linc end :28368	 
+Gm26723					
+Gene on the right: Linc Gene Name: Gm26723	 linc chr: 12	 DE Gene Name Rdh14	 DEG chr: 12	 Distance from linc end :130201	 
+Gm26735					
+Gm26819					
+Gene on the right: Linc Gene Name: Gm26819	 linc chr: 13	 DE Gene Name Klf6	 DEG chr: 13	 Distance from linc end :1620120	 
+C130071C03Rik					 
+Gene on the right: Linc Gene Name: C130071C03Rik	 linc chr: 13	 DE Gene Name Wdr37	 DEG chr: 13	 Distance from linc end :85451	
+A830039N20Rik					 
+Gm26635					 
+Yam1					 
+Gene on the right: Linc Gene Name: Yam1	 linc chr: 17	 DE Gene Name Tfb1m	 DEG chr: 17	 Distance from linc end :965615	
+Gm26823					
+Gene on the right: Linc Gene Name: Gm26823	 linc chr: 18	 DE Gene Name Cul2	 DEG chr: 18	 Distance from linc end :303188	
+Gm4221					 
+Gene on the right: Linc Gene Name: Gm4221	 linc chr: 18	 DE Gene Name Zeb1	 DEG chr: 18	 Distance from linc end :416081	
+					 
+					
+					 
